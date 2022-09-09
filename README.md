@@ -10,3 +10,4 @@ LeetCode is a platform that provides training on solving common algorithmic prob
 | 35 | Search Insert Position | JavaScript |
 | 66 | Plus One | JavaScript |
 | 67 | Add Binary | JavaScript |
+| 69 | Sqrt(x) | JavaScript |
