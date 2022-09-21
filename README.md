@@ -5,9 +5,12 @@ LeetCode is a platform that provides training on solving common algorithmic prob
 
 | Id | Problem | Language |
 |----------|:-------------:|------:|
-| 03 | Longest Substring Without Repeating Characters | JavaScript |
-| 09 | Palindrome Number | JavaScript |
-| 35 | Search Insert Position | JavaScript |
-| 66 | Plus One | JavaScript |
-| 67 | Add Binary | JavaScript |
-| 69 | Sqrt(x) | JavaScript |
+| 001 | Two Sum | JavaScript |
+| 002 | Add Two Numbers | JavaScript |
+| 003 | Longest Substring Without Repeating Characters | JavaScript |
+| 009 | Palindrome Number | JavaScript |
+| 035 | Search Insert Position | JavaScript |
+| 066 | Plus One | JavaScript |
+| 067 | Add Binary | JavaScript |
+| 069 | Sqrt(x) | JavaScript |
+| 367 | Sqrt(x) | JavaScript |
