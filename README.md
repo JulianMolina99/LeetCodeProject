@@ -13,4 +13,4 @@ LeetCode is a platform that provides training on solving common algorithmic prob
 | 066 | Plus One | JavaScript |
 | 067 | Add Binary | JavaScript |
 | 069 | Sqrt(x) | JavaScript |
-| 367 | Sqrt(x) | JavaScript |
+| 367 | Valid Perfect Square | JavaScript |
